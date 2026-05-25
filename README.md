@@ -24,7 +24,7 @@ To install `word-map` search for [word-map](https://web.pulsar-edit.dev/packages
 
 In `atom-text-editor` there are available commands:
 
-- `word-map:auto`: <kbd>F12</kbd> if selection is not empty, then selected text go to convert, else then one char is used
+- `word-map:auto`: if selection is not empty, then selected text go to convert, else then one char is used
 - `word-map:selected`: mutate selected text
 - `word-map:fixed-N`: get `N` letters before cursor and mutate it
 
