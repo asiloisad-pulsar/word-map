@@ -2,6 +2,9 @@
 
 Fast way to convert fixed length text.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [word-map](https://github.com/lumine-code/word-map).
+
 ![AutoConvert](https://github.com/asiloisad-pulsar/word-map/blob/master/assets/ppt-1.gif?raw=true)
 
 ![SelectionConvert](https://github.com/asiloisad-pulsar/word-map/blob/master/assets/ppt-2.gif?raw=true)
